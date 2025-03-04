@@ -5,7 +5,7 @@ This utility extends 3D belt printer G-code files by adding a cylindrical spiral
 
 The `base.gcode` is a basic gcode output file from IdeaMaker Slicer for a belt printer. I have attached the STL to this repo. You can make your own `base.gcode` file to match your printed setup. This tool will *ONLY* work with IdeaMaker gcode and *ONLY* with the `base.STL` sliced file, saved as `base.gcode`.
 
-(https://github.com/xboxhacker/belt_printer_flow_tool/blob/main/preview.png)
+![alt text](https://github.com/xboxhacker/belt_printer_flow_tool/blob/main/preview.png)
 
 
 ## Features
