@@ -33,7 +33,6 @@ The `base.gcode` is a basic gcode output file from IdeaMaker Slicer for a belt p
 - The output file contains the original `base.gcode` print plus the cylinder continuation with flow adjustments
 
 ## Requirements
-Python 3.x with Tkinter
-A base G-code file from a belt printer
-The base G-code must contain at least two layers
-This tool is especially useful for continuous printing applications where a cylindrical extension with adjustable flow rates is needed at precise coordinates.
+- Python 3.x with Tkinter
+- A base G-code file from a belt printer (example in this repo)
+- The base G-code must contain at least two layers
