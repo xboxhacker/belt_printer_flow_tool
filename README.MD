@@ -1,5 +1,7 @@
 # Belt Printer Flow Cylinder Generator
 
+> This tool is a work in progress...
+
 ## Description
 This utility extends 3D belt printer G-code files by adding a cylindrical spiral vase continuation at the end of a predefined 45-degree base. This is called the `base.gcode` file. The script automatically positions a cylinder at the center of your print's X/Y coordinates and starts it in the last layer of the `base.gcode` file.
 
